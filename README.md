@@ -1,4 +1,4 @@
-#The Hexydeck
+# The Hexydeck
   
 
 The Hexydeck is a multiplayer groovebox, designed with a mind to getting young neurodivergent children engaging with each other and with their music teachers. It was commissioned by Drake Music as part of their Tiny Techies research project, exploring the use of accessible music tech in early years settings, and developed in response to a series of music sessions at Newlands School in Rochdale. 
@@ -17,14 +17,14 @@ A big part of the inspiration for the instrument was the Dato Duo, an instrument
 
 
 
-##Constructing the Enclosure
+## Constructing the Enclosure
 
 The Hexydeck uses a Teensy 4.1 along with a Teensy Audio board to generate all the sound. I would recommend having a pretty good knowledge of the Arduino platform to take on this project. Hopefully this guide will lead you through a problem free build, but my experience building my second Hexydeck was that it still required a lot of troubleshooting, even following the familiar build process of the first, so it helps to know your way around. There is also a LOT of wiring and soldering, some of which is very zen and meditative, other bits are fiddly and annoying so first step is to grab a coffee, find an artist/podcast with a large back catalogue and tell your loved ones you’ll miss them!
 
 
 
 
-###Tools you will need
+### Tools you will need
 
 Laser Cutter (capable of cutting 600mm x 900mm)
 
@@ -46,7 +46,7 @@ Hot glue gun
 
 
 
-###Parts
+### Parts
 
 Teensy 4.1
 
@@ -93,10 +93,10 @@ Teensy 4.1 breakout board
 
 
 
-##Step-by-Step Instructions for Constructing the Hexydeck Enclosure****
+## Step-by-Step Instructions for Constructing the Hexydeck Enclosure****
 
 
-###Instructions:
+### Instructions:
 1.	Cutting the Panels:
 o	Cut the 3 sheets of plywood using the provided design files. You should end up with:
 	3 hexagonal panels.
