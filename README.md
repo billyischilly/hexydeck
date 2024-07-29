@@ -24,10 +24,15 @@ The Hexydeck uses a Teensy 4.1 along with a Teensy Audio board to generate all t
 Tools you will need
 
 Laser Cutter (capable of cutting 600mm x 900mm)
+
 Mitre Saw
+
 Soldering Iron
+
 Drill
+
 Wood drill bits
+
 40mm Forster/Spade bit
 Screw driver
 Hammer
