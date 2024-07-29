@@ -108,7 +108,8 @@ Your Hexydeck enclosure is now complete! Follow the wiring instructions separate
 
 ## Wiring Diagram 
 
-![Hexydeck Wiring]([https://github.com/billyischilly/hexydeck/blob/main/Build%20Pictures/IMG_5344%20Large.jpeg](https://github.com/billyischilly/hexydeck/blob/main/Build%20Pictures/Hexydeck%20Wiring.jpg))
+![Hexydeck Wiring Diagram](https://github.com/billyischilly/hexydeck/blob/main/Build%20Pictures/Hexydeck%20Wiring.jpg)
+
 
 ### Notes On Wiring
 
