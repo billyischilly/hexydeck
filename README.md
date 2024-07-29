@@ -1,6 +1,6 @@
 # The Hexydeck
   
-
+  
 The Hexydeck is a multiplayer groovebox, designed with a mind to getting young neurodivergent children engaging with each other and with their music teachers. It was commissioned by Drake Music as part of their Tiny Techies research project, exploring the use of accessible music tech in early years settings, and developed in response to a series of music sessions at Newlands School in Rochdale. 
 
 The primary aim of the instrument was to encourage engagement. Although some of the children at Newlands clearly enjoyed and actively participated in the music sessions, all were non-verbal and many were reluctant to join in with the music-making, preferring instead to explore the soft-play and sensory toys in the room. The instrument needed to be able to compete with these distractions and so was designed to be big and attention grabbing, robust enough to survive being climbed on, and to reward exploration and engagement.
@@ -15,15 +15,13 @@ A big part of the inspiration for the instrument was the Dato Duo, an instrument
 
 4. **Singing Robots** – Waving your hand over the robots’ eyes (ultrasonic sensors) creates a synthesized robot singing voice. Going closer and further away varies the formant (vowel sound) and vibrato of the singer.
 
-
-
+  
+  
 ## Constructing the Enclosure
 
 The Hexydeck uses a Teensy 4.1 along with a Teensy Audio board to generate all the sound. I would recommend having a pretty good knowledge of the Arduino platform to take on this project. Hopefully this guide will lead you through a problem free build, but my experience building my second Hexydeck was that it still required a lot of troubleshooting, even following the familiar build process of the first, so it helps to know your way around. There is also a LOT of wiring and soldering, some of which is very zen and meditative, other bits are fiddly and annoying so first step is to grab a coffee, find an artist/podcast with a large back catalogue and tell your loved ones you’ll miss them!
-
-
-
-
+  
+  
 ### Tools you will need
 
 Laser Cutter (capable of cutting 600mm x 900mm)
@@ -43,9 +41,9 @@ Screw driver
 Hammer
 
 Hot glue gun
-
-
-
+  
+  
+  
 ### Parts
 
 Teensy 4.1
@@ -90,12 +88,11 @@ An Old Leather Belt (optional)
 
 Teensy 4.1 breakout board
 
-
-
-
+  
+  
 ## Step-by-Step Instructions for Constructing the Hexydeck Enclosure****
-
-
+  
+  
 ### Instructions:
 1.	Cutting the Panels:
 o	Cut the 3 sheets of plywood using the provided design files. You should end up with:
@@ -135,10 +132,9 @@ o	Optional: Use a spare leather belt as a handle for portability.
 o	Cut a 25-30cm length of the belt.
 o	Screw the belt to the side of the hexagon with the robot eyes to create a handle.
 Your Hexydeck enclosure is now complete! Follow the wiring instructions separately to finish your build.
-
-
-
-
+  
+  
+  
 ###Notes On Wiring
 
 I have provided a wiring diagram. I have left it up to your preference how to approach this – whether with veroboard, a breadboard or even point-to-point. There is a breakout board available for the Teensy 4.1 which breaks out all the pins as screw terminals which gives a nice balance of providing a strong, stable connection but allowing you to reverse any wiring mistakes. Most of the wiring is fairly simple going directly from the sensors to pins on the Teensy but the hand sensors will need high value resistors. I used 500k resistors but you may find that going higher (to 1M and above) may be a bit more sensitive and thus more effective.
