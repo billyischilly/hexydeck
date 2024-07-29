@@ -1,4 +1,4 @@
-**The Hexydeck**
+#The Hexydeck
   
 
 The Hexydeck is a multiplayer groovebox, designed with a mind to getting young neurodivergent children engaging with each other and with their music teachers. It was commissioned by Drake Music as part of their Tiny Techies research project, exploring the use of accessible music tech in early years settings, and developed in response to a series of music sessions at Newlands School in Rochdale. 
@@ -7,24 +7,24 @@ The primary aim of the instrument was to encourage engagement. Although some of 
 
 A big part of the inspiration for the instrument was the Dato Duo, an instrument that came out a few years ago which allowed two people to sit opposite each other and operate a synth cooperatively. The Hexydeck aims to take this idea further by allowing for up to six people to play the instrument at once, each side of the hexagon having its own method of musical interaction and sound, and some opposing sides needing cooperation to fully function. 
 
-1 . Touch Harp - Lots of small touch keys that make a sound like a plucked string and trigger twinkly lights
+1 . **Touch Harp** - Lots of small touch keys that make a sound like a plucked string and trigger twinkly lights
 
-2 & 5. Big Hand and Small Hands – Completing a circuit between any of the small hands and the big hand through human touch will play a big bass synth.
+2 & 5. **Big Hand and Small Hands** – Completing a circuit between any of the small hands and the big hand through human touch will play a big bass synth.
 
-3 & 6. Drum Machine – One side allows you to change the drum patterns using a knob for each drum (Kick, Snare, Hi Hat). The other allows you to control the volume of each drum, start and stop the beat, control the tempo, and control a low pass, DJ style filter with an ultrasonic sensor.
+3 & 6. **Drum Machine** – One side allows you to change the drum patterns using a knob for each drum (Kick, Snare, Hi Hat). The other allows you to control the volume of each drum, start and stop the beat, control the tempo, and control a low pass, DJ style filter with an ultrasonic sensor.
 
-4. Singing Robots – Waving your hand over the robots’ eyes (ultrasonic sensors) creates a synthesized robot singing voice. Going closer and further away varies the formant (vowel sound) and vibrato of the singer.
+4. **Singing Robots** – Waving your hand over the robots’ eyes (ultrasonic sensors) creates a synthesized robot singing voice. Going closer and further away varies the formant (vowel sound) and vibrato of the singer.
 
 
 
-**Constructing the Enclosure**
+##Constructing the Enclosure
 
 The Hexydeck uses a Teensy 4.1 along with a Teensy Audio board to generate all the sound. I would recommend having a pretty good knowledge of the Arduino platform to take on this project. Hopefully this guide will lead you through a problem free build, but my experience building my second Hexydeck was that it still required a lot of troubleshooting, even following the familiar build process of the first, so it helps to know your way around. There is also a LOT of wiring and soldering, some of which is very zen and meditative, other bits are fiddly and annoying so first step is to grab a coffee, find an artist/podcast with a large back catalogue and tell your loved ones you’ll miss them!
 
 
 
 
-**Tools you will need**
+###Tools you will need
 
 Laser Cutter (capable of cutting 600mm x 900mm)
 
@@ -46,7 +46,7 @@ Hot glue gun
 
 
 
-**Parts**
+###Parts
 
 Teensy 4.1
 
@@ -93,10 +93,10 @@ Teensy 4.1 breakout board
 
 
 
-****Step-by-Step Instructions for Constructing the Hexydeck Enclosure****
+##Step-by-Step Instructions for Constructing the Hexydeck Enclosure****
 
 
-**Instructions:**
+###Instructions:
 1.	Cutting the Panels:
 o	Cut the 3 sheets of plywood using the provided design files. You should end up with:
 	3 hexagonal panels.
@@ -139,7 +139,7 @@ Your Hexydeck enclosure is now complete! Follow the wiring instructions separate
 
 
 
-**Notes On Wiring**
+###Notes On Wiring
 
 I have provided a wiring diagram. I have left it up to your preference how to approach this – whether with veroboard, a breadboard or even point-to-point. There is a breakout board available for the Teensy 4.1 which breaks out all the pins as screw terminals which gives a nice balance of providing a strong, stable connection but allowing you to reverse any wiring mistakes. Most of the wiring is fairly simple going directly from the sensors to pins on the Teensy but the hand sensors will need high value resistors. I used 500k resistors but you may find that going higher (to 1M and above) may be a bit more sensitive and thus more effective.
 
