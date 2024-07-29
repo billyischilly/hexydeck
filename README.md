@@ -1,3 +1,5 @@
+![Hexydeck Image](https://github.com/billyischilly/hexydeck/blob/main/Build%20Pictures/IMG_5344%20Large.jpeg)
+
 # The Hexydeck
 
 The Hexydeck is a multiplayer groovebox, designed with a mind to getting young neurodivergent children engaging with each other and with their music teachers. It was commissioned by Drake Music as part of their Tiny Techies research project, exploring the use of accessible music tech in early years settings, and developed in response to a series of music sessions at Newlands School in Rochdale.
