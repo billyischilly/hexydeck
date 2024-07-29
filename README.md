@@ -106,7 +106,10 @@ The Hexydeck uses a Teensy 4.1 along with a Teensy Audio board to generate all t
 
 Your Hexydeck enclosure is now complete! Follow the wiring instructions separately to finish your build.
 
-## Notes On Wiring
+## Wiring Diagram 
+[Hexydeck Wiring Diagram](https://github.com/billyischilly/hexydeck/blob/main/Hexydeck%20Wiring%20Diagram.pdf)
+
+### Notes On Wiring
 
 I have provided a wiring diagram. I have left it up to your preference how to approach this – whether with veroboard, a breadboard or even point-to-point. There is a breakout board available for the Teensy 4.1 which breaks out all the pins as screw terminals which gives a nice balance of providing a strong, stable connection but allowing you to reverse any wiring mistakes. Most of the wiring is fairly simple going directly from the sensors to pins on the Teensy but the hand sensors will need high value resistors. I used 500k resistors but you may find that going higher (to 1M and above) may be a bit more sensitive and thus more effective.
 
