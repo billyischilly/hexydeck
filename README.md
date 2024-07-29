@@ -107,7 +107,8 @@ The Hexydeck uses a Teensy 4.1 along with a Teensy Audio board to generate all t
 Your Hexydeck enclosure is now complete! Follow the wiring instructions separately to finish your build.
 
 ## Wiring Diagram 
-[Hexydeck Wiring Diagram](https://github.com/billyischilly/hexydeck/blob/main/Hexydeck%20Wiring%20Diagram.pdf)
+[![Hexydeck Wiring Diagram](https://github.com/billyischilly/hexydeck/blob/main/Build%20Pictures/IMG_5344%20Large.jpeg)](https://github.com/billyischilly/hexydeck/blob/main/Hexydeck%20Wiring%20Diagram.pdf)
+
 
 ### Notes On Wiring
 
