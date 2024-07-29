@@ -92,7 +92,9 @@ Teensy 4.1 breakout board
 
 
 
+
 ****Step-by-Step Instructions for Constructing the Hexydeck Enclosure****
+
 
 **Instructions:**
 1.	Cutting the Panels:
@@ -133,6 +135,7 @@ o	Optional: Use a spare leather belt as a handle for portability.
 o	Cut a 25-30cm length of the belt.
 o	Screw the belt to the side of the hexagon with the robot eyes to create a handle.
 Your Hexydeck enclosure is now complete! Follow the wiring instructions separately to finish your build.
+
 
 
 
